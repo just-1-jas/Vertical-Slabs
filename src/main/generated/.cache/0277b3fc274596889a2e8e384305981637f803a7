@@ -1,0 +1,4 @@
+// 26.3	-999999999-01-01T00:00:00	Vertical Slabs/Tags for minecraft:block
+c439afcd6f288560e4bb33be48c4b34298683c5d data/minecraft/tags/block/mineable/axe.json
+c51872d587793552c1157a6e93bd0ac8b36a9063 data/minecraft/tags/block/mineable/pickaxe.json
+cff57e5c8a9de7809ab27a462c4e9b6288f0bb59 data/minecraft/tags/block/needs_stone_tool.json
